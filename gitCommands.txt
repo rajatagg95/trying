@@ -1,0 +1,12 @@
+-revert changes back after staging
+
+1. git reset <filename> : this unstages the file
+2. git checkout <filename> : this reverts back file to last commit
+
+
+
+-steps to push code
+
+1.stage : git add. or git add<filename> or vs code shortut
+2.commit : git commit -m <message>
+3.push: git push
